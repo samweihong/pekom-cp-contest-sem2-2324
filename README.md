@@ -31,3 +31,12 @@ This repository consists of problem statements and solutions from the Universiti
 - [A. Worry about Marks](contest4/worry-about-marks/) (Author: Sam Wei Hong)
 - [B. Flappy Bird Pro Max](contest4/flappy-bird-pro-max/) (Author: Sam Wei Hong)
 - [C. Come for the Class, Stay for the Demo](contest4/stay-for-the-demo/) (Author: Sam Wei Hong)
+
+
+## Contest 5: Linked List
+
+[Codeforces Contest Link](https://codeforces.com/contestInvitation/e78f40ccc608d7f00db6808b947f6606aedcb5d6)
+
+- [A. The Headset Challenge](contest5/the-headset-challenge/) (Author: Ammar Haziq bin Abdul Halim)
+- [B. Magician's Shuffle](contest5/magicians-shuffle/) (Author: Loh Lit Hoong)
+- [C. Pam's Party Game](contest5/pams-party-game/) (Author: Muhammad Mairaj)
